@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: unixc - 最先进的AI平台
+  site: 'https://net66.dev'
   base: '/'
   trailingSlash: false
 
@@ -9,7 +9,7 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
+    default: unixc - 最先进的AI平台
     template: '%s — AstroWind'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
